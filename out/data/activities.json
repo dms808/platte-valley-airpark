@@ -1,0 +1,54 @@
+{
+  "updated": "2026-10-12",
+  "month": "October–November 2026",
+  "items": [
+    {
+      "title": "NBAA Business Aviation Convention & Exhibition (NBAA-BACE)",
+      "date": "Oct 20–22, 2026",
+      "location": "Las Vegas Convention Center, Las Vegas, NV",
+      "description": "The most influential business aviation event of the year. Seminars, exhibits, and networking — many Colorado pilots make the trip annually.",
+      "url": "https://nbaa.org/events/bace/",
+      "tag": "Aviation"
+    },
+    {
+      "title": "Fall Carnival at Rocky Mountain Metropolitan Airport",
+      "date": "Oct 24, 2026 · 11:00 AM",
+      "location": "Rocky Mountain Metropolitan Airport (KBJC), Broomfield, CO",
+      "description": "Community fall carnival at BJC — open to pilots and the public. A great excuse to stop in at one of the Front Range's busiest GA airports.",
+      "url": "https://coloradopilots.org/colorado-aviation-calendar",
+      "tag": "Community"
+    },
+    {
+      "title": "Paint a Plane: Aerial Bootlegging & Barnstorming",
+      "date": "Oct 24, 2026 · 10:00 AM",
+      "location": "Centennial Airport (KAPA), Englewood, CO",
+      "description": "Wings Over the Rockies Exploration of Flight hosts a creative aviation event where guests help paint an aircraft — this month themed around the barnstorming era.",
+      "url": "https://wingsmuseum.org/events",
+      "tag": "EAA"
+    },
+    {
+      "title": "2026 Aviation Business Conference",
+      "date": "Nov 9–10, 2026",
+      "location": "Denver, CO",
+      "description": "Aviation business leaders, operators, and professionals gather in Denver. Great networking for Colorado's GA and commercial aviation community.",
+      "url": "https://www.globalair.com/calendar/aviation-events.aspx",
+      "tag": "Aviation"
+    },
+    {
+      "title": "CPA Annual Membership Meeting 2026",
+      "date": "Nov 14, 2026 · 8:30 AM",
+      "location": "Rocky Mountain Metro Airport (KBJC) — Flatirons Room, Broomfield, CO",
+      "description": "The Colorado Pilots Association's annual gathering. Open to members and prospective members — a great way to connect with the broader Colorado GA community.",
+      "url": "https://coloradopilots.org/colorado-aviation-calendar",
+      "tag": "Community"
+    },
+    {
+      "title": "AOPA Aviation Career Expo",
+      "date": "Nov 13–14, 2026",
+      "location": "Phoenix, AZ",
+      "description": "AOPA's debut career expo covering piloting, maintenance, ATC, and more. Meet recruiters, attend workshops, connect with flight schools — great for any pilot planning their next move.",
+      "url": "https://www.aopa.org/community",
+      "tag": "AOPA"
+    }
+  ]
+}

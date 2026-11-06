@@ -1,0 +1,101 @@
+[
+  {
+    "id": "eaa43-monthly-meeting-2026-11-07",
+    "name": "EAA Chapter 43 Monthly Meeting",
+    "airport": "KBJC — Rocky Mountain Metropolitan",
+    "date": "2026-11-07",
+    "dateDisplay": "Saturday, November 7, 2026",
+    "time": "10:00 AM",
+    "event_type": "Community Event",
+    "website": "https://chapters.eaa.org/eaa43",
+    "notes": "Monthly meeting of EAA Chapter 43 — Colorado's oldest EAA chapter (est. 1958) — in the Flatirons Room upstairs at the KBJC terminal. Covers aircraft building, safety topics, and more. All aviation enthusiasts welcome."
+  },
+  {
+    "id": "kapa-breakfast-fly-in-food-drive-2026-11-14",
+    "name": "Breakfast Fly-In: Food Drive",
+    "airport": "KAPA — Centennial Airport",
+    "date": "2026-11-14",
+    "dateDisplay": "Saturday, November 14, 2026",
+    "time": "9:30 AM",
+    "event_type": "Fly-In",
+    "website": "https://wingsmuseum.org/events/breakfast-fly-in-nov",
+    "notes": "Monthly breakfast fly-in at Wings Over the Rockies Exploration of Flight. Bring a non-perishable food item for Food Bank of the Rockies. Food truck on site; aircraft on display. Pilots fly in for a free breakfast. Weather permitting."
+  },
+  {
+    "id": "boulder-airport-assoc-meeting-2026-11-18",
+    "name": "Boulder Airport Association Monthly Meeting",
+    "airport": "KBDU — Boulder Municipal",
+    "date": "2026-11-18",
+    "dateDisplay": "Wednesday, November 18, 2026",
+    "time": "5:00 PM",
+    "event_type": "Community Event",
+    "website": "https://coloradopilots.org/colorado-aviation-calendar",
+    "notes": "Monthly meeting of the Boulder Airport Association at Boulder Municipal Airport."
+  },
+  {
+    "id": "eaa-chapter-72-meeting-2026-11-21",
+    "name": "EAA Chapter 72 Meeting",
+    "airport": "KFLY — Meadow Lake Airport",
+    "date": "2026-11-21",
+    "dateDisplay": "Saturday–Sunday, November 21–22, 2026",
+    "time": "",
+    "event_type": "Community Event",
+    "website": "https://coloradopilots.org/colorado-aviation-calendar",
+    "notes": "EAA Chapter 72 weekend meeting at Meadow Lake Airport near Colorado Springs. Sign up with the organizer via Colorado Pilots Association."
+  },
+  {
+    "id": "kapa-astronomy-night-2026-11-21",
+    "name": "Astronomy Night: Planet Party",
+    "airport": "KAPA — Centennial Airport",
+    "date": "2026-11-21",
+    "dateDisplay": "Saturday, November 21, 2026",
+    "time": "5:30 PM",
+    "event_type": "Community Event",
+    "website": "https://wingsmuseum.org/events/",
+    "notes": "Stargazing event at Wings Over the Rockies Exploration of Flight. Get up close with planets through telescopes — all ages invited."
+  },
+  {
+    "id": "eaa43-monthly-meeting-2026-12-05",
+    "name": "EAA Chapter 43 Monthly Meeting",
+    "airport": "KBJC — Rocky Mountain Metropolitan",
+    "date": "2026-12-05",
+    "dateDisplay": "Saturday, December 5, 2026",
+    "time": "10:00 AM",
+    "event_type": "Community Event",
+    "website": "https://chapters.eaa.org/eaa43",
+    "notes": "December meeting of EAA Chapter 43 in the Flatirons Room at KBJC terminal. Holiday edition — all aviation enthusiasts welcome."
+  },
+  {
+    "id": "kapa-breakfast-fly-in-2026-12-13",
+    "name": "Wings Breakfast Fly-In: December",
+    "airport": "KAPA — Centennial Airport",
+    "date": "2026-12-13",
+    "dateDisplay": "Saturday, December 13, 2026",
+    "time": "9:30 AM",
+    "event_type": "Fly-In",
+    "website": "https://wingsmuseum.org/events/",
+    "notes": "Second Saturday monthly breakfast fly-in at Wings Over the Rockies Exploration of Flight. Food truck on site; aircraft on display. Pilots fly in for a free breakfast. Weather permitting."
+  },
+  {
+    "id": "eaa43-monthly-meeting-2027-01-03",
+    "name": "EAA Chapter 43 Monthly Meeting",
+    "airport": "KBJC — Rocky Mountain Metropolitan",
+    "date": "2027-01-03",
+    "dateDisplay": "Saturday, January 3, 2027",
+    "time": "10:00 AM",
+    "event_type": "Community Event",
+    "website": "https://chapters.eaa.org/eaa43",
+    "notes": "First meeting of 2027 for EAA Chapter 43 — Colorado's oldest EAA chapter — in the Flatirons Room at KBJC terminal. All welcome."
+  },
+  {
+    "id": "kapa-breakfast-fly-in-2027-01-10",
+    "name": "Wings Breakfast Fly-In: January",
+    "airport": "KAPA — Centennial Airport",
+    "date": "2027-01-10",
+    "dateDisplay": "Saturday, January 10, 2027",
+    "time": "9:30 AM",
+    "event_type": "Fly-In",
+    "website": "https://wingsmuseum.org/events/",
+    "notes": "Second Saturday monthly breakfast fly-in at Wings Over the Rockies Exploration of Flight at Centennial Airport. Food truck on site. Pilots fly in for a free breakfast."
+  }
+]
